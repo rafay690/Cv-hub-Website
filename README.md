@@ -1,5 +1,5 @@
 # Cv-hub-Website
-First-semester web development project using HTML, CSS, JavaScript, and Bootstrap.
+First semester web development project using HTML, CSS, JavaScript, and Bootstrap.
 ### Live-demo https://rafay690.github.io/Cv-hub-Website/
 
 ## Technologies Used
